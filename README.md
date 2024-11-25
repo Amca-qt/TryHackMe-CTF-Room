@@ -17,6 +17,7 @@ P/S : Will add more from to time
 | Name         |
 | ------------ | 
 | [TryHack3M: Bricks Heist](Difficulty/Easy/TryHack3M-Bricks-Heist.md) |
+| [Lookup](Difficulty/Easy/Lookup.md) |
 | [Whiterose](Difficulty/Easy/README.md#whiterose) |
 | [Cheese CTF](Difficulty/Easy/README.md#cheese-ctf) |
 | [U.A High School](Difficulty/Easy/README.md#ua-high-school) |
