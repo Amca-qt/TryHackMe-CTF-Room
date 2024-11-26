@@ -6,9 +6,7 @@
 
 ## Introduction 
 
-Write-up for my Completed CTF Room on TryHackMe
-
-P/S : Will add more from to time
+intro here
 
 ## CTF Rooms
 
@@ -16,37 +14,37 @@ P/S : Will add more from to time
 
 | Name         |
 | ------------ | 
-| [TryHack3M: Bricks Heist](Difficulty/Easy/TryHack3M-Bricks-Heist.md) |
-| [Lookup](Difficulty/Easy/Lookup.md) |
-| [Whiterose](Difficulty/Easy/README.md#whiterose) |
-| [Cheese CTF](Difficulty/Easy/README.md#cheese-ctf) |
-| [U.A High School](Difficulty/Easy/README.md#ua-high-school) |
-| [Publisher](Difficulty/Easy/README.md#publisher) |
-| [Takeover](Difficulty/Easy/README.md#takeover) |
-| [Crack The Hash](Difficulty/Easy/README.md#crack-the-hash) |
+| [TryHack3M: Bricks Heist](Difficulty/Easy/TryHack3M-Bricks-Heist) |
+| [Lookup](Difficulty/Easy/Lookup) |
+| [Whiterose](Difficulty/Easy/whiterose) |
+| [Cheese CTF](Difficulty/Easy/Cheese-ctf) |
+| [U.A High School](Difficulty/Easy/UA-High-School) |
+| [Publisher](Difficulty/Easy/publisher) |
+| [Takeover](Difficulty/Easy/takeover) |
+| [Crack The Hash](Difficulty/Easy/crack-the-hash) |
 
 #### Difficulty ( Medium )
 
 | Name         |
 | ------------ | 
-| [Mr Robot CTF](Difficulty/Medium/README.md#mr-robot-ctf) |
-| [TryHack3M: Bricks Heist](Difficulty/Medium/README.md#tryhackem-brick-heist) |
-| [Breakme](Difficulty/Medium/README.md#breakme) |
-| [The London Bridge](Difficulty/Medium/README.md#the-london-bridge) |
-| [Block](Difficulty/Medium/README.md#block) |
-| [Backtrack](Difficulty/Hard/README.md#backtrack) |
-| [Extracted](Difficulty/Hard/README.md#extracted) |
+| [Mr Robot CTF](Difficulty/Medium/mr-robot-ctf) |
+| [TryHack3M: Bricks Heist](Difficulty/Medium/tryhackem-brick-heist) |
+| [Breakme](Difficulty/Medium/breakme) |
+| [The London Bridge](Difficulty/Medium/the-london-bridge) |
+| [Block](Difficulty/Medium/block) |
+| [Backtrack](Difficulty/Hard/backtrack) |
+| [Extracted](Difficulty/Hard/extracted) |
 
 #### Difficulty ( Hard )
 
 | Name         |
 | ------------ | 
-| [Rabbit Hole](Difficulty/Hard/README.md#rabbit-hole) |
+| [Rabbit Hole](Difficulty/Hard/rabbit-hole) |
 
 
 #### Difficulty ( Insane )
 
 | Name         |
 | ------------ | 
-| [Takedown](Difficulty/Insane/README.md#takedown) |
-| [Crocc Crew](Difficulty/Insane/README.md#crocc-crew) |
+| [Takedown](Difficulty/Insane/takedown) |
+| [Crocc Crew](Difficulty/Insane/crocc-crew) |
